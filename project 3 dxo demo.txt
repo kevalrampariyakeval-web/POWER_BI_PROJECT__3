@@ -1,0 +1,34 @@
+* project 3 dxo demo
+
+1. calcuted column
+   
+   -  profit
+   -  return flag
+   -  customer full name
+
+2. create  measure
+
+   - totle sales
+   - total cost
+   - total profit
+   - retur rate
+   - average sale per  transations
+
+3. filter context & behavior  :
+
+	- use matrix
+	- all function
+	- filter function
+	- calculate function
+
+4. dax operators and function  :
+
+	- countx
+	- if,and, or,switch
+	- concatenate  for text
+	- year , month,eomonth, for date
+
+5. quick measure 
+
+	-calculate year sale growth
+	-find difference prious month sales
